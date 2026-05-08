@@ -1,6 +1,6 @@
 # ⚠️ CPU Killer (Fork Bomb Experiment)
-
 A simple yet powerful "Fork Bomb" script written in Shell. This is created for educational purposes to understand how process management and resource exhaustion work in Linux/Unix environments.
+
 ---
 > [!WARNING]
 > **THIS SCRIPT IS HIGHLY DANGEROUS.**  
